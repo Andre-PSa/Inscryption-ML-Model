@@ -59,9 +59,7 @@ It will be done, in time.
 This project was built with the help of Claude Code, Anthropic's AI coding
 assistant.
 
-- **The game environment:** I wrote the vast majority of 1.0's environment myself. Much
-  of what 1.1 added to it was written by Claude Code, from rules I specified,
-  and revised by me.
+- **The game environment:** I wrote the vast majority of 1.0's environment myself. For 1.1, Claude Code helped add content on top of it (new cards, abilities and encounters) following rules I specified, with little new logic, and I revised everything it wrote.
 - **The model and training:** written with Claude Code, under my direction. I
   specified each part and reviewed every change before it went in.
 - **The encounters** all come from my own runs of the game, transcribed from my
